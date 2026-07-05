@@ -1,0 +1,4 @@
+/.env
+/modelos/client_secret.json
+/extensiones/vendor/
+/logs/*.log
