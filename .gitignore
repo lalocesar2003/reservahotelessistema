@@ -2,3 +2,7 @@
 /modelos/client_secret.json
 /extensiones/vendor/
 /logs/*.log
+
+# macOS
+.DS_Store
+**/.DS_Store
